@@ -1,0 +1,19 @@
+{
+  "name": "exp60",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery.js",
+  "scripts": {
+    "test": "purgecss --css nicepage.css --content index.html --output ./dist" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "purgecss": "^4.1.3"
+  }
+}
+@font-face{
+  font-family: blender;
+  src: url(BlenderPro-Bold.ttf);
+}
